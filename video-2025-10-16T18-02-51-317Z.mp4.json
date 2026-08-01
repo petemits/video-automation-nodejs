@@ -1,0 +1,16 @@
+{
+  "id": "vid-2025-10-16T18-02-51-317Z",
+  "title": "**Title:** Shift Happens: New Rule Alert!",
+  "script": "**Title:** \"Shift Happens: New Rule Alert!\"\n\n**Script:**\n\n(Upbeat background music starts playing. The host, a lively and energetic person, appears on screen with a friendly smile.)\n\nHost: \"Hey everyone! We've got a update that's about to change the game!\"\n\nKey Point 1: \"From now on, AI-generated posts and comments are NOT allowed!\"\n\nKey Point 2: \"We want to keep our community authentic and real, so let's keep it human!\"\n\nKey Point 3: \"This means no more auto-generated replies or posts – it's time to get creative!\"\n\nKey Point 4: \"Let's make this a great community, together!\"\n\n(Closing shot with a call-to-action to engage with the community.)",
+  "points": [
+    "(Upbeat background music starts playing. The host, a lively and energetic person, appears on screen with a friendly smile.)",
+    "Host: \"Hey everyone! We've got a update that's about to change the game!\"",
+    "Key Point 1: \"From now on, AI-generated posts and comments are NOT allowed!\"",
+    "Key Point 2: \"We want to keep our community authentic and real, so let's keep it human!\""
+  ],
+  "duration": 45,
+  "resolution": "1080x1920",
+  "created": "2025-10-16T18:02:58.418Z",
+  "fileSize": "3.1 MB",
+  "aiModel": "meta-llama/llama-3.2-3b-instruct:free"
+}

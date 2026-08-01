@@ -1,0 +1,29 @@
+{
+  "name": "video-automation-nodejs",
+  "version": "1.0.0",
+  "description": "Complete video automation workflow in Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "daily": "node main.js --daily",
+    "test": "node main.js --test"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "canvas": "^2.11.2",
+    "dotenv": "^16.3.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "googleapis": "^126.0.1",
+    "gtts": "^0.2.1",
+    "node-cron": "^3.0.2",
+    "playwright": "^1.56.0"
+  },
+  "keywords": [
+    "automation",
+    "video",
+    "ai",
+    "social-media"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

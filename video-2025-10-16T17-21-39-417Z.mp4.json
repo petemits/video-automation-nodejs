@@ -1,0 +1,16 @@
+{
+  "id": "vid-2025-10-16T17-21-39-417Z",
+  "title": "**Be Human, Not A Bot**",
+  "script": "**\"Be Human, Not A Bot\"**\n\nHey friends! As of today, we're implementing a new rule: AI-generated posts and comments are strictly prohibited!\n\nHere's why:\n\n1. **Authenticity matters**: We want to see your real thoughts and feelings!\n2. **Spam detection**: AI-generated content can be tricky to spot, but we're not having it!\n3. **Community trust**: We need to maintain a genuine connection with each other.\n4. **Creative freedom**: Now's your chance to shine with your unique voice!\n\nLet's keep the conversation real and engaging! Share your thoughts in the comments below!",
+  "points": [
+    "Hey friends! As of today, we're implementing a new rule: AI-generated posts and comments are strictly prohibited!",
+    "Here's why:",
+    "Authenticity matters**: We want to see your real thoughts and feelings!",
+    "Spam detection**: AI-generated content can be tricky to spot, but we're not having it!"
+  ],
+  "duration": 45,
+  "resolution": "1080x1920",
+  "created": "2025-10-16T17:21:46.512Z",
+  "fileSize": "3.5 MB",
+  "aiModel": "meta-llama/llama-3.2-3b-instruct:free"
+}
