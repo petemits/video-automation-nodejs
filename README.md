@@ -1,3 +1,23 @@
+
+## 🚀 The AI Researcher
+
+With a portfolio spanning diverse AI projects – from automation pipelines and conversational agents to data analytics and cloud‑native architectures – I am equipped to step into the role of **AI Researcher** with confidence.
+
+This repository is a testament to my ability to:
+- Design and deliver production‑grade AI solutions.
+- Bridge the gap between cutting‑edge research and real‑world business value.
+- Collaborate across teams to drive innovation and measurable outcomes.
+
+I bring **deep technical expertise**, a **commercial mindset**, and a **track record of building AI systems that generate revenue and operational efficiency**. I am actively seeking opportunities where I can apply this hybrid skill set to tackle your most ambitious challenges.
+
+**Let’s build the future together.**
+
+## 📞 Contact
+
+**Amit P.**  
+📱 +1 647-717-0929  
+📧 [amit.mits.puri@gmail.com](mailto:amit.mits.puri@gmail.com)  
+📍 Open to remote, contract, and full‑time opportunities.
 # video-automation-nodejs
 
 ## 📌 Executive Summary
@@ -7,7 +27,7 @@
 **Entry Point**: `main.js`  
 **Codebase**: 8 source files, 901 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 7 class(es): AIContentGenerator, SocialPoster, VideoCreator, RealSocialPoster, GoogleSheetsManager, 2 function(s): main, duration
+**Key Components**: 7 class(es): VideoAutomationWorkflow, RealSocialPoster, ContentScraper, SocialPoster, VideoCreator, 2 function(s): main, duration
 
 This project contains 7 class(es) and 2 function(s).
 
@@ -24,9 +44,9 @@ This project contains 7 class(es) and 2 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Integration Orchestrator
+## 🧠 My Approach: The Performance Tuner
 
-I connect siloed systems. Whether it's CRMs, ERPs, or legacy mainframes, I build bridges that enable seamless data flow.
+I obsess over latency and throughput. I profile, benchmark, and optimise code to squeeze every ounce of performance from your infrastructure.
 
 ### 📌 My Focus & Track Record
 - **Role**: Automation Architect
@@ -38,7 +58,7 @@ I connect siloed systems. Whether it's CRMs, ERPs, or legacy mainframes, I build
 ### 🎯 Why This Project Exists
 **video-automation-nodejs** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Enterprise IT**: I reduce complexity by harmonising disparate systems.
+**For Performance Teams**: I make slow applications fast.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
@@ -50,14 +70,15 @@ I am open to conversations about how I can apply this mindset to your organisati
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
+- Enhanced Security Posture: Builds robust threat defence and data privacy into the application architecture.
+- Seamless Third‑Party Integration: Connects effortlessly with external services, extending your ecosystem.
+- Rapid Prototyping Capabilities: Enables quick validation of ideas, reducing cost of failure.
 - Data‑Driven Decisions: Provides real‑time, accurate insights that inform strategic direction.
 - Low‑Latency Performance: Delivers near‑instantaneous responses for user‑facing applications.
-- Effortless Maintenance: Designed for easy updates, patching, and long‑term supportability.
-- Cost Reduction: Lowers infrastructure and operational costs through intelligent automation.
-- Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
-- User Retention: Enhances customer experience through personalisation and faster response times.
+- Market Agility: Enables rapid iteration and deployment of new features.
 - Actionable Business Insights: Transforms raw metrics into strategic intelligence.
-- Rapid Prototyping Capabilities: Enables quick validation of ideas, reducing cost of failure.
+- Vendor Lock‑in Avoidance: Builds with open standards, ensuring flexibility and portability.
+- Reduced Technical Debt: Maintains clean, modular, and well‑tested codebases that are easy to extend.
 
 ### 🔗 Integrations
 - REST / GraphQL APIs (external services)
@@ -66,11 +87,11 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ## 📈 Scale to SaaS & Beyond
 
+- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
 - Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
 - Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
-- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
-- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
-- API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
+- Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
+- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
 
 ## 🤖 AI Tools & Integrations (A–Z)
 
@@ -110,6 +131,7 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **OpenAI API** | Access to GPT, DALL‑E, and Whisper models. |
 | **OpenCV** | Computer vision library for real‑time applications. |
 | **Pinecone** | Vector database for semantic search and recommendations. |
+| **Pinokio** | AI browser – runs open‑source models locally. [Website](https://pinokio.computer/) |
 | **PyTorch** | Dynamic deep learning framework from Meta. |
 | **Ray** | Distributed computing framework for AI workloads. |
 | **Replicate** | Run and share machine learning models in the cloud. |
@@ -131,6 +153,10 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **ZenML** | MLOps framework for reproducible pipelines. |
 
 *This is a living list – new tools are constantly emerging. The modular design of this project makes it easy to plug in any AI service.*
+
+### 🌐 AI Tool Directories & Discovery Platforms
+- [AIXPLORIA](https://www.aixploria.com/en/) – Explore thousands of AI tools across 50+ categories, filter by free/paid, and stay updated with daily additions.
+- [Pinokio](https://pinokio.computer/) – A dedicated AI browser that lets you install and run open‑source machine learning models locally with one click.
 ## 💻 AI Code Generation Tools (Free & Paid)
 
 To accelerate development, you can integrate these AI tools for code generation, autocompletion, and documentation. Pricing models are noted below.
