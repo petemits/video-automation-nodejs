@@ -7,7 +7,7 @@
 **Entry Point**: `main.js`  
 **Codebase**: 8 source files, 901 lines of production‑ready code  
 **Architecture**: Object‑oriented  
-**Key Components**: 7 class(es): GoogleSheetsManager, SocialPoster, ContentScraper, VideoAutomationWorkflow, AIContentGenerator, 2 function(s): main, duration
+**Key Components**: 7 class(es): AIContentGenerator, SocialPoster, VideoCreator, RealSocialPoster, GoogleSheetsManager, 2 function(s): main, duration
 
 This project contains 7 class(es) and 2 function(s).
 
@@ -24,9 +24,9 @@ This project contains 7 class(es) and 2 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Compliance Custodian
+## 🧠 My Approach: The Integration Orchestrator
 
-I ensure your software meets regulatory standards (GDPR, HIPAA, SOC2). I build audit trails, data privacy controls, and governance frameworks.
+I connect siloed systems. Whether it's CRMs, ERPs, or legacy mainframes, I build bridges that enable seamless data flow.
 
 ### 📌 My Focus & Track Record
 - **Role**: Automation Architect
@@ -38,7 +38,7 @@ I ensure your software meets regulatory standards (GDPR, HIPAA, SOC2). I build a
 ### 🎯 Why This Project Exists
 **video-automation-nodejs** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For Regulated Industries**: I deliver peace of mind through compliance as code.
+**For Enterprise IT**: I reduce complexity by harmonising disparate systems.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
@@ -50,15 +50,14 @@ I am open to conversations about how I can apply this mindset to your organisati
 ## 💡 Benefits & Ecosystem Integration
 
 ### ✨ Key Benefits
-- Operational Efficiency: Reduces manual effort by 60‑80%, freeing up talent for higher‑value work.
-- Cross‑Functional Collaboration: Bridges gaps between business, design, and engineering teams.
-- High Availability & Uptime: Ensures mission‑critical systems are always accessible to users.
-- Scalability: Designed to handle growing volumes without proportional cost increases.
-- Automated Compliance & Governance: Embeds regulatory requirements directly into the deployment pipeline.
-- Actionable Business Insights: Transforms raw metrics into strategic intelligence.
+- Data‑Driven Decisions: Provides real‑time, accurate insights that inform strategic direction.
 - Low‑Latency Performance: Delivers near‑instantaneous responses for user‑facing applications.
-- Continuous Deployment: Enables safe, automated, and frequent releases to production.
-- Faster Time‑to‑Market: Reduces development cycles, allowing you to beat competitors to launch.
+- Effortless Maintenance: Designed for easy updates, patching, and long‑term supportability.
+- Cost Reduction: Lowers infrastructure and operational costs through intelligent automation.
+- Revenue Acceleration: Directly impacts top‑line growth by enabling faster time‑to‑market and personalisation.
+- User Retention: Enhances customer experience through personalisation and faster response times.
+- Actionable Business Insights: Transforms raw metrics into strategic intelligence.
+- Rapid Prototyping Capabilities: Enables quick validation of ideas, reducing cost of failure.
 
 ### 🔗 Integrations
 - REST / GraphQL APIs (external services)
@@ -68,8 +67,8 @@ I am open to conversations about how I can apply this mindset to your organisati
 ## 📈 Scale to SaaS & Beyond
 
 - Analytics Dashboard: Add real‑time monitoring and business intelligence dashboards.
-- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
 - Third‑Party Integrations: Expand to additional CRM, ERP, or marketing automation tools.
+- Cloud Deployment: Containerise with Docker and deploy to AWS, GCP, or Azure for global availability.
 - CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
 - API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
 
@@ -132,6 +131,24 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **ZenML** | MLOps framework for reproducible pipelines. |
 
 *This is a living list – new tools are constantly emerging. The modular design of this project makes it easy to plug in any AI service.*
+## 💻 AI Code Generation Tools (Free & Paid)
+
+To accelerate development, you can integrate these AI tools for code generation, autocompletion, and documentation. Pricing models are noted below.
+
+| Tool | Description | Pricing |
+| :--- | :--- | :--- |
+| **GitHub Copilot** | AI pair programmer. Free for open-source and verified students; paid plans from $10/month. | Freemium |
+| **Tabnine** | AI code completion for multiple languages. Free tier available; paid Pro from $12/month. | Freemium |
+| **Codeium** | AI-powered autocomplete and chat. Completely free for individual developers. | Free |
+| **Cursor** | AI-first code editor with built-in Copilot-like features. Free tier available; paid plans start at $20/month. | Freemium |
+| **Amazon CodeWhisperer** | AWS service for real‑time code suggestions. Free tier included; paid with AWS subscription. | Freemium |
+| **Replit Ghostwriter** | AI assistant in Replit's online IDE. Free tier included; paid plans from $7/month. | Freemium |
+| **Bito AI** | Code generation and explanation. Free for individuals; paid team plans. | Freemium |
+| **Sourcegraph Cody** | AI assistant for code understanding and generation. Free for individuals and open-source; paid for enterprise. | Freemium |
+| **Mintlify** | AI-powered documentation generator. Free tier; paid plans for teams. | Freemium |
+| **MightyMeld** | AI for React component generation. Free trial; paid plans from $15/month. | Freemium |
+
+*Most tools offer free tiers – perfect for personal projects and learning. Paid plans unlock higher limits and team features.*
 
 ## 📁 Project Structure
 ## 🚀 Full Program Guide (How to Run)
